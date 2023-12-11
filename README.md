@@ -1,2 +1,2 @@
-# andidate-Profile-Compatibility-Predictor
+# Candidate-Profile-Compatibility-Predictor
 CS6120 Project
